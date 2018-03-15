@@ -11,6 +11,7 @@ public class TestInterface {
         heli.setVelMax(500);
         System.out.println(avion.compareTo(heli));
         System.out.println(heli.compareTo(avion));
+        //Fran GAAAYYYjajaaj
     }
     
 }
