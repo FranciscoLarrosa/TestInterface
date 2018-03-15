@@ -12,6 +12,7 @@ public class TestInterface {
         System.out.println(avion.compareTo(heli));
         System.out.println(heli.compareTo(avion));
         //Fran GAAAYYYjajaaj
+        // hdp jaja
     }
     
 }
